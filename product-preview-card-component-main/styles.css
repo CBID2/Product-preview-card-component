@@ -1,5 +1,7 @@
 body{
-    background-color:  hsl(30, 38%, 92%)
+    background-color:  hsl(30, 38%, 92%);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
     }
     .container {
       display: flex;
