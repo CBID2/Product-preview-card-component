@@ -22,7 +22,7 @@ body{
       display: flex;
       flex-direction: column;
       width: 300px;
-      height: max-content;
+      height: 400px;
       margin-top: 3rem;
     }
     .product {
@@ -35,10 +35,10 @@ body{
       display: flex;
       flex-direction: column;
       width: 300px;
-      height: max-content;
+      height: 400px;
       background-color: hsl(0, 0%, 100%);
       margin-top: 3rem;
-    border-radius: 1rem;
+      border-radius: 1rem;
       margin-bottom: 12rem;
       padding-bottom: 6rem;
     }
